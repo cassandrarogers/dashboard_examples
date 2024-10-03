@@ -1,9 +1,18 @@
-# Customer Health Dashboard Examples
-Customer Health Overview
-Customer Health by Product
-Customer Health - Individual Customer View
+### [Customer Health dashboards](#customer-health-dashboards)
+### [PowerBI dashboards](#power-bi-dashboard-examples)
 
-# Power BI Dashboard Examples
+## Customer Health Dashboards
+These dashboards demonstrate how I would present data on customer health overall, by product, and by customer. The target audience are Customer Success Managers (CSMs)
+
+View on [mokkup.ai](https://app.mokkup.ai/embed/d3d5afec-1c95-4625-a97c-84eccb9a6c7f)
+
+![Customer Health Overview](Customer%20Health%20Overview.png)
+
+![Customer Health by Product](Customer%20Health%20Overview%20-%20Products.png)
+
+![Customer Health - Individual Customer View](Customer%20Health%20-%20Individual.png)
+
+## Power BI Dashboard Examples
 
 [Student Retention & Graduation Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZDA1MmE5M2QtMGYwZi00NDlhLTkxN2QtNjA1OTI5OGZjYTk1IiwidCI6IjE3ZGNiMDBjLTY5NDEtNDA1MC1iNjllLWJkN2ViODk1MTcxMiIsImMiOjZ9)
 > This dashboard was produced to provide further details on intra-college transfers - what % of students are changing major, changing department, or dropping out. The data reveals that there are some majors where very few students persist in that major to the second year of study, or to the point of graduation. This level of detail is often not apparent when looking at overall retention or graduation rates by major as the criteria for such metrics is typically whether or not the student is still enrolled, rather than whether they are enrolled in the same program. 
