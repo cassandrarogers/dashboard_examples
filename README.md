@@ -1,3 +1,8 @@
+# Customer Health Dashboard Examples
+Customer Health Overview
+Customer Health by Product
+Customer Health - Individual Customer View
+
 # Power BI Dashboard Examples
 
 [Student Retention & Graduation Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZDA1MmE5M2QtMGYwZi00NDlhLTkxN2QtNjA1OTI5OGZjYTk1IiwidCI6IjE3ZGNiMDBjLTY5NDEtNDA1MC1iNjllLWJkN2ViODk1MTcxMiIsImMiOjZ9)
